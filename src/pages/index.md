@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Nebraska Mycological Society
-image: /img/home-jumbotron.jpg
+image: /img/img_0472.jpg
 heading: For all things fun and fungi!
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
